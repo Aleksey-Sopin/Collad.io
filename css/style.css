@@ -2043,7 +2043,7 @@ body {
 }
 .love-page {
   position: relative;
-  background: url("/img/page-12.love/Rectangle.svg") no-repet;
+  background: url("../img/page-12.love/Rectangle.svg") no-repeat;
 }
 .love-page__container {
   display: flex;
